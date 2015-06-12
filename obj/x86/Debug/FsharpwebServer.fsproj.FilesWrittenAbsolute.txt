@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/FsharpwebServer/FsharpwebServer/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/FsharpwebServer/FsharpwebServer/bin/Debug/FsharpwebServer.exe.mdb
+/home/jacqueline/Projects/FsharpwebServer/FsharpwebServer/bin/Debug/FsharpwebServer.exe
+/home/jacqueline/Projects/FsharpwebServer/FsharpwebServer/obj/x86/Debug/FsharpwebServer.exe
+/home/jacqueline/Projects/FsharpwebServer/FsharpwebServer/obj/x86/Debug/FsharpwebServer.exe.mdb
